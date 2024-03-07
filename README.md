@@ -49,7 +49,7 @@ pkg install git openssh python -y
 ```
 Clone the repository
 ```bash
-git clone https://github.com/dk1285/AndyTrack-info
+git clone https://github.com/AndyCyberHub/AndyTrack-info.git
 ```
 Go to the AndyTrack-info directory
 ```bash
@@ -72,7 +72,7 @@ apt install git openssh python -y
 ```
 Clone the repository
 ```bash
-git clone https://github.com/dk1285/AndyTrack-info
+git clone https://github.com/AndyCyberHub/AndyTrack-info.git
 ```
 Go to the AndyTrack-info directory
 ```bash
@@ -95,7 +95,7 @@ apt install git openssh python -y
 ```
 Clone the repository
 ```bash
-git clone https://github.com/dk1285/AndyTrack-info
+git clone https://github.com/AndyCyberHub/AndyTrack-info.git
 ```
 Go to the AndyTrack-info directory
 ```bash
@@ -118,7 +118,7 @@ apt install git openssh python -y
 ```
 Clone the repository
 ```bash
-git clone https://github.com/dk1285/AndyTrack-info
+git clone https://github.com/AndyCyberHub/AndyTrack-info.git
 ```
 Go to the AndyTrack-info directory
 ```bash
@@ -133,7 +133,7 @@ python3 install.py
 
 Clone the repository
 ```bash
-git clone https://github.com/dk1285/AndyTrack-info
+git clone https://github.com/AndyCyberHub/AndyTrack-info.git
 ```
 Go to the AndyTrack-info directory
 ```bash
